@@ -1,0 +1,22 @@
+[
+{
+  "modid": "vmcm",
+  "name": "Vampire Money Custom Mod",
+  "description": "Custom mod for Gideonseymour's modpack: Vampire Money",
+  "version": "1.7.10-1.0",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/trajing/VampireMoneyCustomMod",
+  "updateUrl": "",
+  "authorList": [
+    "trajing",
+    "Lumaceon"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
